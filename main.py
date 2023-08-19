@@ -8,11 +8,9 @@ import html5lib
 
 
 # 定义网站地址
-# website_url = 'https://8tako.com'
 website_url = input("请输入网站域名：")
 
 # 在当前目录下创建名为 "web" 的目录
-# web_directory = "web"
 web_directory = input("请输入保存文件名：")
 
 os.makedirs(web_directory, exist_ok=True)
