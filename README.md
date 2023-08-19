@@ -13,6 +13,6 @@
 
 5. 运行截图
 
-   ![image-20230819165732456](/Users/kelvin.a/Desktop/python3/v-porject/image-20230819165732456.png)
+   ![image-20230819165732456](./imgs/image-20230819165732456.png)
 
-   ![image-20230819165812604](/Users/kelvin.a/Desktop/python3/v-porject/image-20230819165812604.png)
+   ![image-20230819165812604](./imgs/image-20230819165812604.png)
